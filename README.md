@@ -15,10 +15,10 @@ It also includes functionality to decode and extract the hidden message from the
 - **main.py**: User interface to run the full encode/decode process.
 
 ## Output
-Enter the message: hello world!
-Enter the image path: uwp4803195.png
-Message encoded and saved as encoded_image.png
-Decoded message from image: hello world!
+Enter the message: hello world!<br>
+Enter the image path: uwp4803195.png<br>
+Message encoded and saved as encoded_image.png<br>
+Decoded message from image: hello world!<br>
 
 Process finished with exit code 0
 
